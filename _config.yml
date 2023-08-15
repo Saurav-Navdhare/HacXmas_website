@@ -29,16 +29,16 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5-6 August 2022"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
+  title:       "HacXmas | October 2023"
+  description: "This is a placeholder website for upcoming hackathon @ PDEU."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
-  name:        "Example Hacks"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 - 6 August 2022"
-  location:    "Holmdel, NJ, United States"
+  name:        "HacXmas"
+  description: "This is a placeholder website for upcoming hackathon @ PDEU."
+  date:        "2nd October 2023"
+  location:    "P.D.E.U, Gandhinagar"
 
   trust_badge:
     year:   "2017"  # season year
@@ -52,13 +52,14 @@ event:
           client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
           redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
       - text: "Sponsor"
-        href: "mailto:sponsorship@website.com"
+        href: "mailto:navdharesaurav2003@gmail.com"
 
   about:
     description: >
-      Example Hacks is a hackathon hosted at The University of Example.
-      This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
-      Keep it straightforward, don't make it too long.
+      HacXmas is a hackathon hosted at Pandit Deendayal Enerfy University.
+      Hackathon is in initial stages of ideation, You can check back on 2nd October 2023 for Major updates of the hackathon.
+      HacXmas will be an innovative hackathon where you will be given real life problem statements at the venue of hackathon, you need to ideate and develop a good solution during the hacking hours
+
 
   # Info Sections
   info:
@@ -66,15 +67,15 @@ event:
       - image: "images/image1.png"
         title: "LEARN."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Ideate and Learn about real life problems
       - image: "images/image2.png"
         title: "BUILD."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Build your solution making yourself as the solution provider
       - image: "images/image3.png"
         title: "SHARE."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Share your application world wide by contributing it to the community
 
   # Frequently asked questions.
   faq:
@@ -84,14 +85,13 @@ event:
         software & hardware hacks over 24-48 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
     - question: "How much does it cost?"
       answer: >
-        Nothing. Attending a hackathon is free.
+        It will only cost a few kbs of data (only to apply)
     - question: "Do I need to be a student to attend?"
       answer: >
-        Yes. Only students who are currently enrolled at a college/university or
-        have graduated within the past 12 months are eligible to attend.
+        Yes. Only students who are currently enrolled at a college/university.
     - question: "Where is the event?"
       answer: >
-        The event is being hosted at [insert venue location here].
+        The event is being hosted at Pandit Deendayal Energy University, Gandhinagar, Gujarat, India.
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
