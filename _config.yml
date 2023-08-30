@@ -29,20 +29,20 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "HacXmas | October 2023"
-  description: "This is a placeholder website for upcoming hackathon @ PDEU."
+  title:       "TuringHacX | October 2023"
+  description: "This is a placeholder website for upcoming hackathon at Pandit Deendayal Energy University."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
-  name:        "HacXmas"
-  description: "This is a placeholder website for upcoming hackathon @ PDEU."
+  name:        "TuringHacX"
+  description: "This is a placeholder website for upcoming hackathon at Pandit Deendayal Energy University."
   date:        "2nd October 2023"
-  location:    "P.D.E.U, Gandhinagar"
+  location:    "Pandit Deendayal Energy University, Gandhinagar, India"
 
   trust_badge:
-    year:   "2017"  # season year
-    region: "eu"    # "na" or "eu"
+    year:   "2023"  # season year
+    region: "apac"    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
@@ -56,9 +56,9 @@ event:
 
   about:
     description: >
-      HacXmas is a hackathon hosted at Pandit Deendayal Enerfy University.
+      TuringHacX is a hackathon hosted at Pandit Deendayal Energy University.
       Hackathon is in initial stages of ideation, You can check back on 2nd October 2023 for Major updates of the hackathon.
-      HacXmas will be an innovative hackathon where you will be given real life problem statements at the venue of hackathon, you need to ideate and develop a good solution during the hacking hours
+      TuringHacX will be an innovative hackathon where you will be given real life problem statements at the venue of hackathon, you need to ideate and develop a good solution during the hacking hours
 
 
   # Info Sections
